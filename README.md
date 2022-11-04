@@ -3,11 +3,11 @@
 
 - 🔭 Al momento lavoro a **NTT-DATA per Intesa San Paolo**
 
-- 🌱 Competenze: **Java - Maven - Hibernate - Sql - MondoDB - SpringBoot - Kubernates - Docker - Junit - SonarQube - Jenkis - Angular - Kibana - Postman**
+- 🌱 Competenze: **Java v: 8/11/17 - Maven - Hibernate - Sql - MondoDB - SpringBoot - Kubernates - Docker - Junit - SonarQube - Jenkis - Angular - Kibana - Postman - Azure - Openshift**
 
 - 👯 Mi occupo di: **Sviluppo di nuove API - Integrazioni con servizi di BE esterni - Analisi di reverse engine e sviluppo documentazione / use-case - gestione completa del ciclo di vita del software - Porting da Architetture Monolotiche a MicroServizi**
 
-- 👯 Tecnologie Usate **JavaEE - Spring Boot - Maven - PostgresSQL - Docker - Kubernates - OpenShift**
+- 👯 Tecnologie Usate **JavaEE - Spring Boot - Maven - PostgresSQL - Docker - Kubernates - OpenShift - Azure**
 
 - 💬 Conoscenze : **Architetture monolitiche e a micro servizi - Design Pattern ADR - MVC - COMMAND**
 
