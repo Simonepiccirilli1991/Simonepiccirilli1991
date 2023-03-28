@@ -1,5 +1,5 @@
 <h1 align="center">Ciao 👋, sono Simone</h1>
-<h3 align="center">DevOps Software Engineer da Roma</h3>
+<h3 align="center">Software Engineer da Roma</h3>
 
 - 🔭 Al momento lavoro a **NTT-DATA per Intesa San Paolo**
 
