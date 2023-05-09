@@ -6,7 +6,7 @@
 - 🌱 Competenze: **Java v: 8/11/17/20 - GoLang -Typescipt - Maven - Hibernate - Sql - MondoDB - SpringBoot - Kubernates - Docker - Junit - SonarQube - Jenkis - Angular - Kibana - Postman - Azure - Openshift - Saas Paas Iaas / Cloud**
 
 - 🌱 Linguaggi utilizzati: **Java - Python - GoLang -Typescipt**
-- 
+
 - 👯 Mi occupo di: **Sviluppo di nuove API - Integrazioni con servizi di BE esterni - Analisi di reverse engine e sviluppo documentazione / use-case - gestione completa del ciclo di vita del software - Porting da Architetture Monolotiche a MicroServizi**
 
 - 👯 Tecnologie Usate **JavaEE - Spring Boot - Maven - PostgresSQL - Docker - Kubernates - OpenShift - Azure ecc...**
